@@ -1,0 +1,48 @@
+# Dependency directories
+node_modules/
+
+# npm
+npm-debug.log
+npm-debug.log*
+npm-error.log*
+npm-shrinkwrap.json
+package-lock.json
+
+# yarn
+yarn-debug.log*
+yarn-error.log*
+yarn-integrity
+
+# pnpm
+pnpm-debug.log*
+
+# Distribution
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Temporary files
+*.log
+.tmp/
+tmp/
+
+# OS
+Thumbs.db
+.AppleDouble
+.LSOverride
